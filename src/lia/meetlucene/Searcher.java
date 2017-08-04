@@ -1,5 +1,3 @@
-package lia.meetlucene;
-
 /**
  * Copyright Manning Publications Co.
  *
